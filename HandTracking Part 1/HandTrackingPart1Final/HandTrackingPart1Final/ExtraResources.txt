@@ -1,0 +1,12 @@
+//
+//  ExtraResources.swift
+//  HandTrackingPart1Final
+//
+//  Created by Dat Nguyen on 12/5/24.
+//
+
+NSHandsTrackingUsageDescription
+The app requires this to track your hand.
+
+NSWorldSensingUsageDescription
+The app requires this to interact with the world.
